@@ -3,6 +3,7 @@
 	<name>dataStructure</name>
 	<comment></comment>
 	<projects>
+		<project>AdminApplication</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
